@@ -1,0 +1,578 @@
+[
+  {
+    "id": 26,
+    "name": "Rúben Dias",
+    "nationality": "Portugal",
+    "position": "Defender",
+    "clubs": [
+      "Benfica",
+      "Manchester City"
+    ],
+    "age": 27,
+    "goals": 15,
+    "market_value": 80,
+    "image": "/players/Rúben_Dias.png",
+    "hints": [
+      "Immediately transformed Manchester City's defence after joining for £61m in 2020",
+      "Won the Premier League Player of the Season award in his debut campaign — rare for a defender",
+      "Won three Premier League titles and the Champions League in four seasons",
+      "Captains Portugal and is considered the nation's best defender since Figo's era",
+      "Was brought up in the Benfica academy, the same system that produced Joao Felix"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Gianluigi Donnarumma",
+    "nationality": "Italy",
+    "position": "Goalkeeper",
+    "clubs": [
+      "AC Milan",
+      "Paris Saint-Germain"
+    ],
+    "age": 26,
+    "goals": 0,
+    "market_value": 60,
+    "image": "/players/Gianluigi_Donnarumma.png",
+    "hints": [
+      "Was named Player of the Tournament at a major European championship",
+      "Made his debut for a famous Italian club at just 16, replacing a club legend",
+      "Left that club on a free transfer, causing outrage among fans who called him a traitor",
+      "At 1.96m, he is one of the tallest goalkeepers to play at the top level",
+      "Considered the long-term successor to a legendary Italian goalkeeper who shares his surname"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Antoine Griezmann",
+    "nationality": "France",
+    "position": "Forward",
+    "clubs": [
+      "Real Sociedad",
+      "Atletico Madrid",
+      "FC Barcelona",
+      "Atletico Madrid"
+    ],
+    "age": 33,
+    "goals": 320,
+    "market_value": 20,
+    "image": "/players/Antoine_Griezmann.png",
+    "hints": [
+      "Won a World Cup in 2018 where he finished as the tournament's joint top scorer",
+      "Rejected Manchester United in a pre-announcement documentary before signing elsewhere",
+      "Won the Europa League twice with the same Spanish club across two separate stints",
+      "Named best player at a European Championship despite his team finishing runners-up",
+      "Was deemed too small by Spanish clubs as a teenager before being signed by a Basque club"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Son Heung-min",
+    "nationality": "South Korea",
+    "position": "Forward",
+    "clubs": [
+      "Hamburg",
+      "Bayer Leverkusen",
+      "Tottenham Hotspur"
+    ],
+    "age": 32,
+    "goals": 185,
+    "market_value": 25,
+    "image": "/players/Son_Heung-min.png",
+    "hints": [
+      "Became the first Asian player to win the Premier League Golden Boot in 2021/22",
+      "His father, a former semi-professional, trained him rigorously from childhood",
+      "Completed mandatory military service — a requirement for South Korean males — via tournament gold",
+      "Became the all-time record scorer for a north London club, surpassing a club legend",
+      "Scored a solo wonder goal against a Burnley side that is widely remembered as one of the PL's best"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Bernardo Silva",
+    "nationality": "Portugal",
+    "position": "Midfielder",
+    "clubs": [
+      "Benfica",
+      "Monaco",
+      "Manchester City"
+    ],
+    "age": 30,
+    "goals": 80,
+    "market_value": 70,
+    "image": "/players/Bernardo_Silva.png",
+    "hints": [
+      "Won the Ligue 1 title at Monaco in the season before joining a Premier League giant",
+      "Named Manchester City's Player of the Season in 2021/22",
+      "Has won 5 Premier League titles, all at the same club",
+      "Despite never being a headline name, is consistently rated among the best midfielders globally",
+      "Rejected multiple La Liga moves to remain at his club — reportedly out of loyalty to the manager"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Alexia Putellas",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "clubs": [
+      "Espanyol",
+      "Levante",
+      "FC Barcelona"
+    ],
+    "age": 31,
+    "goals": 170,
+    "market_value": 0,
+    "image": "/players/Alexia_Putellas.png",
+    "hints": [
+      "Won back-to-back Ballon d'Or Féminin awards in 2021 and 2022",
+      "Tore her ACL on the eve of the 2022 European Championship yet still attended to support",
+      "Led her club to multiple UEFA Women's Champions League finals",
+      "Won the FIFA Women's World Cup in 2023, contributing to a historic Spanish victory",
+      "Widely considered the greatest women's footballer of her generation"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Aitana Bonmatí",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "clubs": [
+      "FC Barcelona"
+    ],
+    "age": 26,
+    "goals": 120,
+    "market_value": 0,
+    "image": "/players/Aitana_Bonmatí.png",
+    "hints": [
+      "Won the Ballon d'Or Féminin in consecutive years — 2023 and 2024",
+      "Named Best FIFA Women's Player in 2023",
+      "Was the standout performer in Spain's 2023 Women's World Cup winning campaign",
+      "Won the UEFA Women's Champions League multiple times with the same Catalan club",
+      "Born in Sant Pere de Ribes, she has spent her entire career at one club"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Julian Álvarez",
+    "nationality": "Argentina",
+    "position": "Forward",
+    "clubs": [
+      "River Plate",
+      "Manchester City",
+      "Atletico Madrid"
+    ],
+    "age": 25,
+    "goals": 110,
+    "market_value": 130,
+    "image": "/players/Julian_Álvarez.png",
+    "hints": [
+      "Scored 4 goals in the knockout stages of the 2022 World Cup to help win Argentina's third title",
+      "Was technically on loan at a Premier League club during the 2022 World Cup",
+      "Won the Champions League and two Premier League titles in just two seasons",
+      "Left Manchester City for £81.5m to join a Spanish club in 2024",
+      "Nicknamed 'La Araña' (The Spider) for his tireless movement and work rate"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Alisson Becker",
+    "nationality": "Brazil",
+    "position": "Goalkeeper",
+    "clubs": [
+      "Internacional",
+      "Roma",
+      "Liverpool"
+    ],
+    "age": 32,
+    "goals": 3,
+    "market_value": 40,
+    "image": "/players/Alisson_Becker.png",
+    "hints": [
+      "Set a world record fee for a goalkeeper when joining his current club for £65m in 2018",
+      "Scored a 95th-minute header from a corner to keep his club's title hopes alive in 2021",
+      "Won the Champions League, Premier League, and FIFA Club World Cup at the same club",
+      "His older brother Muriel is also a professional goalkeeper — a rare family trait",
+      "Won the Best FIFA Goalkeeper award in 2019"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Alexander Isak",
+    "nationality": "Sweden",
+    "position": "Forward",
+    "clubs": [
+      "AIK",
+      "Borussia Dortmund",
+      "Willem II",
+      "Real Sociedad",
+      "Newcastle United",
+      "Liverpool"
+    ],
+    "age": 25,
+    "goals": 130,
+    "market_value": 140,
+    "image": "/players/Alexander_Isak.png",
+    "hints": [
+      "Moved to Liverpool in 2025 for a fee that shattered the previous British transfer record",
+      "Idolised a famous Swedish striker growing up — and now holds Sweden's transfer record himself",
+      "Scored 25+ goals in a debut Premier League season despite joining a club outside the top 4",
+      "Came through Borussia Dortmund's academy before flourishing in Spain's top flight",
+      "Known for his elite first touch, movement, and composure in front of goal"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Zinedine Zidane",
+    "nationality": "France",
+    "position": "Midfielder",
+    "clubs": [
+      "Cannes",
+      "Bordeaux",
+      "Juventus",
+      "Real Madrid"
+    ],
+    "age": 52,
+    "goals": 125,
+    "market_value": 0,
+    "image": "/players/Zinedine_Zidane.png",
+    "hints": [
+      "Scored two headers in a World Cup final at the age of 26 to win the tournament for his nation",
+      "Won the Champions League both as a player and later as a manager at the same club",
+      "His infamous head-butt in the 2006 World Cup final remains one of sport's most iconic moments",
+      "Won the Ballon d'Or in 1998, the same year he won the World Cup",
+      "Of Algerian Kabyle descent, grew up in a housing estate in Marseille"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Ronaldinho",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "clubs": [
+      "Gremio",
+      "Paris Saint-Germain",
+      "FC Barcelona",
+      "AC Milan",
+      "Flamengo",
+      "Atletico Mineiro"
+    ],
+    "age": 45,
+    "goals": 300,
+    "market_value": 0,
+    "image": "/players/Ronaldinho.png",
+    "hints": [
+      "Won the Ballon d'Or in 2005 at a Spanish club during one of football's most magical individual runs",
+      "Made Real Madrid fans stand and applaud him during an away league match",
+      "Won the World Cup with Brazil in 2002, setting up the iconic second goal",
+      "Was arrested and briefly imprisoned in Paraguay in 2020 over a passport issue",
+      "Known for his trademark smile and no-look passes that deceived entire defences"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Thierry Henry",
+    "nationality": "France",
+    "position": "Forward",
+    "clubs": [
+      "Monaco",
+      "Juventus",
+      "Arsenal",
+      "Barcelona",
+      "New York Red Bulls"
+    ],
+    "age": 47,
+    "goals": 411,
+    "market_value": 0,
+    "image": "/players/Thierry_Henry.png",
+    "hints": [
+      "Became a north London club's all-time record scorer with 228 goals",
+      "Was part of the 'Invincibles' — a side that went an entire league season unbeaten",
+      "Initially struggled as a winger at Juventus before being reinvented as a striker by Arsene Wenger",
+      "Won the 1998 World Cup and Euro 2000 with France as part of a legendary squad",
+      "Scored one of Wembley's greatest goals in the 2003 Community Shield with a solo run"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Ronaldo Nazário",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "clubs": [
+      "Cruzeiro",
+      "PSV Eindhoven",
+      "FC Barcelona",
+      "Inter Milan",
+      "Real Madrid",
+      "AC Milan",
+      "Corinthians"
+    ],
+    "age": 48,
+    "goals": 414,
+    "market_value": 0,
+    "image": "/players/Ronaldo_Nazário.png",
+    "hints": [
+      "Won the World Cup in 1994 and 2002, scoring in the final of the latter",
+      "Won the FIFA World Player of the Year award three times — 1996, 1997, and 2002",
+      "His career was repeatedly interrupted by serious knee injuries but he kept returning",
+      "Was nicknamed 'O Fenômeno' — widely considered the most complete striker in football history",
+      "Scored both goals in the 2002 World Cup final against Germany in Yokohama"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Zlatan Ibrahimovic",
+    "nationality": "Sweden",
+    "position": "Forward",
+    "clubs": [
+      "Malmö",
+      "Ajax",
+      "Juventus",
+      "Inter Milan",
+      "Barcelona",
+      "AC Milan",
+      "PSG",
+      "Manchester United",
+      "LA Galaxy"
+    ],
+    "age": 43,
+    "goals": 570,
+    "market_value": 0,
+    "image": "/players/Zlatan_Ibrahimovic.png",
+    "hints": [
+      "Scored a 30-metre overhead kick for Sweden against England in 2012 — often called the greatest international goal ever",
+      "Won league titles in the Netherlands, Italy, Spain, France, and England",
+      "Never won the Champions League despite playing for elite clubs across Europe",
+      "Famously dismissed his time at a Spanish club by saying there is only one king",
+      "Returned to AC Milan at 38 years old and scored 15 league goals in a title-winning season"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Paolo Maldini",
+    "nationality": "Italy",
+    "position": "Defender",
+    "clubs": [
+      "AC Milan"
+    ],
+    "age": 56,
+    "goals": 35,
+    "market_value": 0,
+    "image": "/players/Paolo_Maldini.png",
+    "hints": [
+      "Spent his entire 25-year professional career at a single Italian club",
+      "Won 5 European Cups / Champions League titles in an unmatched defensive career",
+      "His father Cesare also played for and managed the same club",
+      "Was never sent off in over 900 senior appearances — a statistical anomaly for a defender",
+      "Considered by many the greatest defender who ever lived, known for timing tackles perfectly"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Gianluigi Buffon",
+    "nationality": "Italy",
+    "position": "Goalkeeper",
+    "clubs": [
+      "Parma",
+      "Juventus",
+      "Paris Saint-Germain",
+      "Juventus"
+    ],
+    "age": 47,
+    "goals": 0,
+    "market_value": 0,
+    "image": "/players/Gianluigi_Buffon.png",
+    "hints": [
+      "Holds the record for most Serie A appearances, playing until his mid-40s",
+      "Won the World Cup with Italy in 2006, conceding only two own goals in the tournament",
+      "Joined a French club at age 39 after an emotional farewell to his boyhood club",
+      "Won more league titles than any other player in Italian football history",
+      "Was bought by Juventus in 2001 for a then world record fee for a goalkeeper"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Xavi Hernandez",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "clubs": [
+      "FC Barcelona",
+      "Al Sadd"
+    ],
+    "age": 45,
+    "goals": 85,
+    "market_value": 0,
+    "image": "/players/Xavi_Hernandez.png",
+    "hints": [
+      "Won the World Cup in 2010 and back-to-back European Championships in 2008 and 2012",
+      "Made a record 767 appearances for a single Catalan club during the tiki-taka era",
+      "Was named man of the tournament at Euro 2008 and the 2010 World Cup",
+      "Famously had the best pass completion rate at every major tournament he participated in",
+      "Retired to Qatar before returning to manage his boyhood club"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Andrés Iniesta",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "clubs": [
+      "FC Barcelona",
+      "Vissel Kobe",
+      "Emirates Club"
+    ],
+    "age": 40,
+    "goals": 60,
+    "market_value": 0,
+    "image": "/players/Andrés_Iniesta.png",
+    "hints": [
+      "Scored the winning goal in a World Cup final in extra time with his nation's first-ever win",
+      "Was named man of the tournament at the same World Cup despite not winning the Golden Boot",
+      "Spent 22 years at a Catalan club, departing for Japan in an emotional farewell",
+      "Known for his ability to find space in tight situations and never losing the ball",
+      "One of only a handful of players to win the World Cup, two European Championships, and the Champions League"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Sergio Ramos",
+    "nationality": "Spain",
+    "position": "Defender",
+    "clubs": [
+      "Sevilla",
+      "Real Madrid",
+      "Paris Saint-Germain",
+      "Sevilla"
+    ],
+    "age": 39,
+    "goals": 185,
+    "market_value": 0,
+    "image": "/players/Sergio_Ramos.png",
+    "hints": [
+      "Scored a 93rd-minute header in a Champions League final to force extra time and spark a famous comeback",
+      "Holds the record for most red cards in the history of the Champions League",
+      "Captained both his club and country to their most successful periods in history simultaneously",
+      "Won four Champions League titles, all at the same Spanish club",
+      "His long-time defensive partner was from France and equally regarded as among the best ever"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Iker Casillas",
+    "nationality": "Spain",
+    "position": "Goalkeeper",
+    "clubs": [
+      "Real Madrid",
+      "Porto"
+    ],
+    "age": 44,
+    "goals": 0,
+    "market_value": 0,
+    "image": "/players/Iker_Casillas.png",
+    "hints": [
+      "Was the goalkeeper for two European Championship wins and one World Cup with Spain",
+      "Made his Real Madrid debut at age 16 and went on to make over 700 appearances",
+      "His save in a 2010 World Cup semi-final against Arjen Robben is considered one of the greatest ever",
+      "Suffered a heart attack during training at Porto in 2019 that effectively ended his career",
+      "Captained the greatest international cycle in Spanish football history"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Cafu",
+    "nationality": "Brazil",
+    "position": "Defender",
+    "clubs": [
+      "São Paulo",
+      "Zaragoza",
+      "Roma",
+      "AC Milan"
+    ],
+    "age": 54,
+    "goals": 35,
+    "market_value": 0,
+    "image": "/players/Cafu.png",
+    "hints": [
+      "The only player in history to appear in three consecutive World Cup finals — 1994, 1998, and 2002",
+      "Won the World Cup in 1994 and 2002, captaining Brazil in the latter",
+      "Revolutionized the right-back position as an attacking weapon rather than a pure defender",
+      "Spent his prime years in Serie A — first at Roma, then at a famous Milan club",
+      "Named in the FIFA 100 list of greatest living footballers compiled by Pele"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Roberto Carlos",
+    "nationality": "Brazil",
+    "position": "Defender",
+    "clubs": [
+      "União São João",
+      "Palmeiras",
+      "Inter Milan",
+      "Real Madrid",
+      "Fenerbahce",
+      "Corinthians"
+    ],
+    "age": 51,
+    "goals": 115,
+    "market_value": 0,
+    "image": "/players/Roberto_Carlos.png",
+    "hints": [
+      "Scored a free kick against France in 1997 that physicists initially said was scientifically impossible",
+      "Won the Champions League three times at a Spanish club where he spent 11 years",
+      "Holds the record for most appearances as a left back in Champions League history",
+      "Had thighs so powerful that his stride was measured to be almost horse-like in pace studies",
+      "Won the 2002 World Cup alongside another Brazilian legend also named Ronaldo"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Rivaldo",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "clubs": [
+      "Santa Cruz",
+      "Mogi Mirim",
+      "Corinthians",
+      "Palmeiras",
+      "Deportivo La Coruña",
+      "FC Barcelona",
+      "AC Milan",
+      "Olympiacos"
+    ],
+    "age": 52,
+    "goals": 352,
+    "market_value": 0,
+    "image": "/players/Rivaldo.png",
+    "hints": [
+      "Won the Ballon d'Or and FIFA World Player of the Year in 1999 while at a Spanish club",
+      "Scored a bicycle kick goal in the last minute to qualify Brazil for the 2002 World Cup",
+      "Was part of the Brazil squad that won the 2002 World Cup — contributing goals in the knockout stages",
+      "Was fined by FIFA for feigning injury after being hit by a ball during a Turkish league match",
+      "Played at the top level until his late 30s, representing numerous clubs across Europe and beyond"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Fabio Cannavaro",
+    "nationality": "Italy",
+    "position": "Defender",
+    "clubs": [
+      "Napoli",
+      "Parma",
+      "Inter Milan",
+      "Juventus",
+      "Real Madrid",
+      "Juventus"
+    ],
+    "age": 51,
+    "goals": 20,
+    "market_value": 0,
+    "image": "/players/Fabio_Cannavaro.png",
+    "hints": [
+      "Won the Ballon d'Or in 2006 — the last defender to win the award",
+      "Captained Italy to the 2006 World Cup, conceding only twice in open play",
+      "Joined Real Madrid the same summer, winning La Liga in his first season",
+      "Is considered one of the most complete centre-backs in football history despite being under 6ft",
+      "Made over 100 appearances for Italy, captaining them for the majority of his latter career"
+    ]
+  }
+]

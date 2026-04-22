@@ -1,0 +1,606 @@
+[
+  {
+    "id": 51,
+    "name": "Oliver Kahn",
+    "nationality": "Germany",
+    "position": "Goalkeeper",
+    "clubs": [
+      "Karlsruher SC",
+      "Bayern Munich"
+    ],
+    "age": 55,
+    "goals": 0,
+    "market_value": 0,
+    "image": "/players/Oliver_Kahn.png",
+    "hints": [
+      "Was the first goalkeeper to win the Golden Ball at a World Cup — in 2002 despite his team losing the final",
+      "Won the Champions League with a German club in 2001, saving three penalties in the shootout",
+      "Spent his entire peak career at Bayern Munich, winning 8 Bundesliga titles",
+      "Was known for his intimidating presence and nicknamed 'The Titan'",
+      "His howler in the 2002 World Cup final is remembered as one of the game's great goalkeeping errors"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Didier Drogba",
+    "nationality": "Ivory Coast",
+    "position": "Forward",
+    "clubs": [
+      "Le Mans",
+      "Guingamp",
+      "Marseille",
+      "Chelsea",
+      "Shanghai Shenhua",
+      "Galatasaray",
+      "Chelsea",
+      "Montreal Impact"
+    ],
+    "age": 47,
+    "goals": 360,
+    "market_value": 0,
+    "image": "/players/Didier_Drogba.png",
+    "hints": [
+      "Scored in his last-ever Champions League appearance — a 90th-minute equaliser in the final — before converting the winning penalty",
+      "Was the Chelsea top scorer in the Premier League four times",
+      "His goals helped end a 50-year wait for the Champions League at his club",
+      "Used his fame to help negotiate a ceasefire in an Ivory Coast civil war",
+      "Won the African Player of the Year award twice and is his nation's all-time top scorer"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Samuel Eto'o",
+    "nationality": "Cameroon",
+    "position": "Forward",
+    "clubs": [
+      "Real Madrid",
+      "Mallorca",
+      "FC Barcelona",
+      "Inter Milan",
+      "Anzhi",
+      "Chelsea",
+      "Everton"
+    ],
+    "age": 44,
+    "goals": 468,
+    "market_value": 0,
+    "image": "/players/Samuel_Eto'o.png",
+    "hints": [
+      "Won the Champions League with two different clubs — Barcelona in 2006 and Inter Milan in 2010",
+      "Won back-to-back Champions Leagues with different clubs in consecutive seasons",
+      "Africa's all-time top scorer at the time of his peak and a four-time African Player of the Year",
+      "Was sold by Real Madrid as a teenager — they later tried and failed to re-sign him",
+      "Scored in both the 2006 and 2009 Champions League finals"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Ruud van Nistelrooy",
+    "nationality": "Netherlands",
+    "position": "Forward",
+    "clubs": [
+      "Den Bosch",
+      "Heerenveen",
+      "PSV Eindhoven",
+      "Manchester United",
+      "Real Madrid",
+      "Hamburg",
+      "Málaga"
+    ],
+    "age": 48,
+    "goals": 377,
+    "market_value": 0,
+    "image": "/players/Ruud_van_Nistelrooy.png",
+    "hints": [
+      "Scored in 10 consecutive Champions League matches — a record that stood for years",
+      "Won the Premier League Golden Boot in 2002/03 with 25 goals",
+      "Suffered a serious knee injury on the day he was supposed to sign for his most famous club — and came back a year later",
+      "Was top scorer in the Champions League for three separate seasons",
+      "Fell out badly with the manager who signed him, leading to his departure from a Manchester club"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Patrick Vieira",
+    "nationality": "France",
+    "position": "Midfielder",
+    "clubs": [
+      "Cannes",
+      "AC Milan",
+      "Arsenal",
+      "Juventus",
+      "Inter Milan",
+      "Manchester City",
+      "New York Red Bulls"
+    ],
+    "age": 48,
+    "goals": 65,
+    "market_value": 0,
+    "image": "/players/Patrick_Vieira.png",
+    "hints": [
+      "Captained a north London side through the 2003/04 unbeaten season",
+      "Won the 1998 World Cup and Euro 2000 with France as a commanding defensive midfielder",
+      "His rivalry with Roy Keane is considered one of football's greatest individual battles",
+      "Won three Premier League titles at a north London club before leaving for Serie A",
+      "Was born in Senegal and grew up in France — representing France at international level"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Ronaldo de Lima",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "clubs": [
+      "Cruzeiro",
+      "PSV Eindhoven",
+      "FC Barcelona",
+      "Inter Milan",
+      "Real Madrid",
+      "AC Milan",
+      "Corinthians"
+    ],
+    "age": 48,
+    "goals": 414,
+    "market_value": 0,
+    "image": "/players/Ronaldo_de_Lima.png",
+    "hints": [
+      "Considered by Pele and many others as the greatest footballer of all time",
+      "Won the World Cup in 1994 and 2002, scoring twice in the final of the latter",
+      "His career was devastated by three separate serious knee injuries, yet he kept returning",
+      "Had a peculiar haircut at the 2002 World Cup that became one of sport's most iconic images",
+      "Named FIFA World Player of the Year three times in a career that inspired a generation"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Kaká",
+    "nationality": "Brazil",
+    "position": "Midfielder",
+    "clubs": [
+      "São Paulo",
+      "AC Milan",
+      "Real Madrid",
+      "AC Milan",
+      "Orlando City"
+    ],
+    "age": 42,
+    "goals": 200,
+    "market_value": 0,
+    "image": "/players/Kaká.png",
+    "hints": [
+      "Won the Ballon d'Or in 2007 — the last player not named Messi or Ronaldo to do so for over a decade",
+      "Won the Champions League with an Italian club in 2007 with a legendary individual performance against a German side",
+      "Was signed by Real Madrid for a then world record fee of £56m in 2009",
+      "A devout Christian who regularly points to the sky after scoring",
+      "Was nearly paralysed after a swimming pool accident as a teenager — which made him dedicate his life to football"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Franck Ribéry",
+    "nationality": "France",
+    "position": "Forward",
+    "clubs": [
+      "Brest",
+      "Metz",
+      "Galatasaray",
+      "Marseille",
+      "Bayern Munich",
+      "Fiorentina",
+      "Salernitana"
+    ],
+    "age": 41,
+    "goals": 240,
+    "market_value": 0,
+    "image": "/players/Franck_Ribéry.png",
+    "hints": [
+      "Won the Champions League with a German club in 2013 as part of a treble-winning side",
+      "Finished third in the Ballon d'Or in 2013 — many felt he deserved to win it",
+      "Won 8 consecutive Bundesliga titles at a German club",
+      "His face bears distinctive scars from a serious car accident he survived as a toddler",
+      "Was part of the France squad that lost the 2006 World Cup final"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Wayne Rooney",
+    "nationality": "England",
+    "position": "Forward",
+    "clubs": [
+      "Everton",
+      "Manchester United",
+      "Everton",
+      "DC United",
+      "Derby County"
+    ],
+    "age": 39,
+    "goals": 390,
+    "market_value": 0,
+    "image": "/players/Wayne_Rooney.png",
+    "hints": [
+      "England's all-time leading scorer — a record later surpassed by another Englishman",
+      "Scored an overhead kick against a rival Manchester club that is often cited as one of the Premier League's greatest goals",
+      "Made his top-flight debut at 16, scoring against the then-reigning European champions",
+      "Won 5 Premier League titles and a Champions League with a Manchester club",
+      "Was known as much for his combative temperament as for his remarkable talent and vision"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Arjen Robben",
+    "nationality": "Netherlands",
+    "position": "Forward",
+    "clubs": [
+      "Groningen",
+      "PSV Eindhoven",
+      "Chelsea",
+      "Real Madrid",
+      "Bayern Munich"
+    ],
+    "age": 41,
+    "goals": 310,
+    "market_value": 0,
+    "image": "/players/Arjen_Robben.png",
+    "hints": [
+      "Won the Champions League in 2013, scoring the last-minute winner in the final",
+      "Won 8 consecutive Bundesliga titles at a German club",
+      "Was known for cutting inside from the right wing and scoring with his left foot — one of football's most predictable yet unstoppable moves",
+      "Missed a penalty in a World Cup final shootout before converting a winning penalty in the same tournament four years later",
+      "Was plagued by recurring hamstring injuries throughout his career despite consistently brilliant performances"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Filippo Inzaghi",
+    "nationality": "Italy",
+    "position": "Forward",
+    "clubs": [
+      "Piacenza",
+      "Parma",
+      "Atalanta",
+      "Juventus",
+      "AC Milan"
+    ],
+    "age": 51,
+    "goals": 345,
+    "market_value": 0,
+    "image": "/players/Filippo_Inzaghi.png",
+    "hints": [
+      "Scored in two Champions League finals — both for the same Italian club",
+      "Was described by Sir Alex Ferguson as a player who was 'born in an offside position'",
+      "Won the Champions League in both 2003 and 2007 with the same club",
+      "Built his career entirely around poaching goals from close range and never miscontrolling",
+      "Was a serial winner in Serie A despite rarely being considered an elite-level player"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Clarence Seedorf",
+    "nationality": "Netherlands",
+    "position": "Midfielder",
+    "clubs": [
+      "Ajax",
+      "Sampdoria",
+      "Real Madrid",
+      "Inter Milan",
+      "AC Milan"
+    ],
+    "age": 49,
+    "goals": 135,
+    "market_value": 0,
+    "image": "/players/Clarence_Seedorf.png",
+    "hints": [
+      "The only player in history to win the Champions League with three different clubs",
+      "Won the trophy with Ajax in 1995, Real Madrid in 1998, and AC Milan in 2003 and 2007",
+      "Was a technically complete midfielder — powerful, creative, and a goalscorer",
+      "Became a manager after retiring, taking charge of AC Milan and later Cameroon",
+      "Was born in Suriname and later became a Dutch citizen and international"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Lev Yashin",
+    "nationality": "Soviet Union",
+    "position": "Goalkeeper",
+    "clubs": [
+      "Dynamo Moscow"
+    ],
+    "age": 0,
+    "goals": 0,
+    "market_value": 0,
+    "image": "/players/Lev_Yashin.png",
+    "hints": [
+      "The only goalkeeper in history to win the Ballon d'Or — in 1963",
+      "Reportedly saved over 150 penalties in his career",
+      "Won 5 Soviet league titles and was an Olympic champion in 1956",
+      "Known entirely for wearing all-black — earning him the nickname 'The Black Spider'",
+      "The award given annually to the world's best goalkeeper is named in his honour"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Johan Cruyff",
+    "nationality": "Netherlands",
+    "position": "Forward",
+    "clubs": [
+      "Ajax",
+      "Barcelona",
+      "Los Angeles Aztecs",
+      "Washington Diplomats",
+      "Levante",
+      "Ajax",
+      "Feyenoord"
+    ],
+    "age": 0,
+    "goals": 373,
+    "market_value": 0,
+    "image": "/players/Johan_Cruyff.png",
+    "hints": [
+      "Won three consecutive European Cups with Ajax from 1971 to 1973",
+      "Invented a turn that became one of football's most famous individual skills — named after him",
+      "Won three Ballon d'Or awards and was regarded as the pioneer of Total Football",
+      "As a manager, his Barcelona team played a style that influenced Guardiola's tiki-taka era",
+      "Refused to play in the 1978 World Cup for personal safety reasons — his team reached the final without him"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Franz Beckenbauer",
+    "nationality": "Germany",
+    "position": "Defender",
+    "clubs": [
+      "Bayern Munich",
+      "New York Cosmos",
+      "Hamburger SV"
+    ],
+    "age": 0,
+    "goals": 95,
+    "market_value": 0,
+    "image": "/players/Franz_Beckenbauer.png",
+    "hints": [
+      "Won the World Cup as both a player in 1974 and as a manager in 1990 — only the second person to do so",
+      "Won the European Cup three consecutive times with Bayern Munich in the 1970s",
+      "Essentially invented the modern 'libero' or 'sweeper' position — a defender who carried the ball forward",
+      "Was nicknamed 'Der Kaiser' for his commanding elegance and leadership",
+      "Won the Ballon d'Or twice — in 1972 and 1976"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Ronaldo Luis",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "clubs": [
+      "Cruzeiro",
+      "PSV Eindhoven",
+      "FC Barcelona",
+      "Inter Milan",
+      "Real Madrid",
+      "AC Milan",
+      "Corinthians"
+    ],
+    "age": 48,
+    "goals": 414,
+    "market_value": 0,
+    "image": "/players/Ronaldo_Luis.png",
+    "hints": [
+      "Won the World Cup in both 1994 and 2002, scoring a brace in the 2002 final",
+      "Named FIFA World Player of the Year three times despite multiple serious knee surgeries",
+      "Had a mysterious seizure-like episode the night before the 1998 World Cup final",
+      "His iconic haircut at the 2002 World Cup was reportedly copied by thousands of children worldwide",
+      "Often described as the greatest striker in football history by his contemporaries"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Pep Guardiola",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "clubs": [
+      "FC Barcelona",
+      "Brescia",
+      "Roma",
+      "Al-Ahli",
+      "Dorados",
+      "New York City FC"
+    ],
+    "age": 54,
+    "goals": 15,
+    "market_value": 0,
+    "image": "/players/Pep_Guardiola.png",
+    "hints": [
+      "Won La Liga and the Copa del Rey as a player at Barcelona but never won the Champions League as a player",
+      "Was the holding midfielder who orchestrated the Dream Team era of Barcelona under Johan Cruyff",
+      "Played in Italy, the Middle East, Mexico, and the USA at the end of his career",
+      "Had a defining role in Cruyff's greatest Barcelona side despite not being a goalscorer",
+      "Is far better known worldwide as a manager than as a player"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Luis Figo",
+    "nationality": "Portugal",
+    "position": "Forward",
+    "clubs": [
+      "Sporting CP",
+      "FC Barcelona",
+      "Real Madrid",
+      "Inter Milan"
+    ],
+    "age": 52,
+    "goals": 170,
+    "market_value": 0,
+    "image": "/players/Luis_Figo.png",
+    "hints": [
+      "Made one of the most controversial transfers in football history — from one rival to another",
+      "Won the Ballon d'Or in 2000 and the FIFA World Player of the Year the same year",
+      "Was pelted with a pig's head when he returned to the stadium of his former club",
+      "Won the Champions League with Real Madrid in 2002",
+      "Captained Portugal to the semi-finals of the 2006 World Cup at age 33"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Michael Owen",
+    "nationality": "England",
+    "position": "Forward",
+    "clubs": [
+      "Liverpool",
+      "Real Madrid",
+      "Newcastle United",
+      "Manchester United",
+      "Stoke City"
+    ],
+    "age": 45,
+    "goals": 222,
+    "market_value": 0,
+    "image": "/players/Michael_Owen.png",
+    "hints": [
+      "Won the Ballon d'Or in 2001 — the last Englishman to win the award",
+      "Scored one of the World Cup's most celebrated individual goals at age 18 against Argentina in 1998",
+      "Was plagued by hamstring injuries from his mid-20s onwards, limiting his peak years",
+      "Won the UEFA Cup, FA Cup, and League Cup in the same season at a Merseyside club",
+      "Became a controversial figure by joining a fierce local rival after leaving Newcastle"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Raúl González",
+    "nationality": "Spain",
+    "position": "Forward",
+    "clubs": [
+      "Atletico Madrid (youth)",
+      "Real Madrid",
+      "Schalke 04",
+      "Al Sadd",
+      "New York Cosmos"
+    ],
+    "age": 47,
+    "goals": 452,
+    "market_value": 0,
+    "image": "/players/Raúl_González.png",
+    "hints": [
+      "Was Real Madrid's all-time top scorer before a Portuguese player surpassed him",
+      "Won three Champions League titles with Real Madrid between 1998 and 2002",
+      "Captained Real Madrid for many years and is considered one of the club's greatest ever players",
+      "Famously used to kiss his wedding ring after scoring — a tribute to his wife",
+      "Started at Atletico Madrid's youth academy before moving to rivals Real Madrid"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "George Best",
+    "nationality": "Northern Ireland",
+    "position": "Forward",
+    "clubs": [
+      "Manchester United",
+      "Stockport County",
+      "Cork Celtic",
+      "Los Angeles Aztecs",
+      "Fort Lauderdale Strikers"
+    ],
+    "age": 0,
+    "goals": 179,
+    "market_value": 0,
+    "image": "/players/George_Best.png",
+    "hints": [
+      "Won the European Cup in 1968 with Manchester United and was named the best player in Europe",
+      "Won the Ballon d'Or in 1968 — the first player from the British Isles to do so",
+      "Was nicknamed 'El Beatle' due to his celebrity status and long hair in 1960s Manchester",
+      "His off-field lifestyle became as legendary as his play — he was once described by himself in a famous self-deprecating quote",
+      "Widely considered one of the greatest dribblers in the history of the game"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "David Beckham",
+    "nationality": "England",
+    "position": "Midfielder",
+    "clubs": [
+      "Manchester United",
+      "Real Madrid",
+      "LA Galaxy",
+      "AC Milan",
+      "Paris Saint-Germain"
+    ],
+    "age": 50,
+    "goals": 130,
+    "market_value": 0,
+    "image": "/players/David_Beckham.png",
+    "hints": [
+      "Scored from inside his own half against Wimbledon in the 1996/97 Premier League opener",
+      "Won 6 Premier League titles and a Champions League with a Manchester club",
+      "Was the first British player to win league titles in four different countries",
+      "His free kick delivery was considered among the finest in the history of the game",
+      "Became one of the world's most recognised sports icons due to football and celebrity status"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Dennis Bergkamp",
+    "nationality": "Netherlands",
+    "position": "Forward",
+    "clubs": [
+      "Ajax",
+      "Inter Milan",
+      "Arsenal"
+    ],
+    "age": 55,
+    "goals": 289,
+    "market_value": 0,
+    "image": "/players/Dennis_Bergkamp.png",
+    "hints": [
+      "Refused to fly, which limited his availability in European away games but never diminished his impact",
+      "Scored a goal against Argentina in the 1998 World Cup quarter-final that is widely considered one of the greatest ever",
+      "Won three Premier League titles with Arsenal, including as part of the Invincibles",
+      "Was initially considered a disappointment at an Italian club before reinventing himself in England",
+      "A statue of him stands outside the stadium of the north London club he served for over a decade"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Romario",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "clubs": [
+      "Vasco da Gama",
+      "PSV Eindhoven",
+      "FC Barcelona",
+      "Valencia",
+      "Flamengo",
+      "Vasco da Gama"
+    ],
+    "age": 59,
+    "goals": 771,
+    "market_value": 0,
+    "image": "/players/Romario.png",
+    "hints": [
+      "Won the 1994 World Cup with Brazil, scoring 5 goals and being named the tournament's best player",
+      "Scored over 1000 goals across his career by his own controversial counting",
+      "Was one of the most prolific scorers at PSV Eindhoven and FC Barcelona in the early 1990s",
+      "Fell out with his manager before the 1998 World Cup and was controversially dropped",
+      "Became a Brazilian politician after retiring from football"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Eusébio",
+    "nationality": "Portugal",
+    "position": "Forward",
+    "clubs": [
+      "Sporting de Lourenço Marques",
+      "Benfica"
+    ],
+    "age": 0,
+    "goals": 727,
+    "market_value": 0,
+    "image": "/players/Eusébio.png",
+    "hints": [
+      "Won the Ballon d'Or in 1965 after leading his club to the European Cup",
+      "Top scorer at the 1966 World Cup with 9 goals — including 4 in a single quarter-final",
+      "Spent almost his entire career at a single Portuguese club, winning 11 league titles",
+      "Born in Mozambique, he became Portugal's greatest-ever footballer of the 20th century",
+      "His statue stands outside the national stadium in Lisbon as a tribute to his legacy"
+    ]
+  }
+]

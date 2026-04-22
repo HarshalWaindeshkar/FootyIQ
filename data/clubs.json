@@ -1,0 +1,472 @@
+[
+  {
+    "name": "AC Milan",
+    "logo": "/logos/ac-milan.png",
+    "league": "Serie A",
+    "country": "Italy"
+  },
+  {
+    "name": "Angers",
+    "logo": "/logos/angers-sco.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+  {
+    "name": "Arsenal",
+    "logo": "/logos/arsenal.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+  {
+    "name": "AS Monaco",
+    "logo": "/logos/as-monaco.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+  {
+    "name": "AS Saint-Étienne",
+    "logo": "/logos/as-saint-etienne.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+  {
+    "name": "Aston Villa",
+    "logo": "/logos/aston-villa.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+  {
+    "name": "Atalanta",
+    "logo": "/logos/atalanta.png",
+    "league": "Serie A",
+    "country": "Italy"
+  },
+  {
+    "name": "Athletic Club",
+    "logo": "/logos/athletic.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+  {
+    "name": "Atlético Madrid",
+    "logo": "/logos/atletico-madrid.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+  {
+    "name": "Augsburg",
+    "logo": "/logos/augsburg.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+
+  {
+    "name": "Barcelona",
+    "logo": "/logos/barcelona.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+  {
+    "name": "Bayern Munich",
+    "logo": "/logos/bayern.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+  {
+    "name": "Bologna",
+    "logo": "/logos/bologna.png",
+    "league": "Serie A",
+    "country": "Italy"
+  },
+  {
+    "name": "Werder Bremen",
+    "logo": "/logos/bremen.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+  {
+    "name": "Brentford",
+    "logo": "/logos/brentford.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+  {
+    "name": "Brighton",
+    "logo": "/logos/brighton.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+  {
+    "name": "Burnley",
+    "logo": "/logos/burnley.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+
+  {
+    "name": "Cadiz",
+    "logo": "/logos/cadiz.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+  {
+    "name": "Cagliari",
+    "logo": "/logos/cagliari.png",
+    "league": "Serie A",
+    "country": "Italy"
+  },
+  {
+    "name": "Celta Vigo",
+    "logo": "/logos/celta.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+  {
+    "name": "Chelsea",
+    "logo": "/logos/chelsea.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+  {
+    "name": "Clermont Foot",
+    "logo": "/logos/clermont-foot-63.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+  {
+    "name": "Crystal Palace",
+    "logo": "/logos/crystal-palace.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+
+  {
+    "name": "Deportivo Alavés",
+    "logo": "/logos/deportivo-alavez.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+  {
+    "name": "Borussia Dortmund",
+    "logo": "/logos/dortmund.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+  {
+    "name": "Fortuna Düsseldorf",
+    "logo": "/logos/dusseldorf.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+
+  {
+    "name": "Eintracht Frankfurt",
+    "logo": "/logos/frankfurt.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+  {
+    "name": "SC Freiburg",
+    "logo": "/logos/freiburg.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+
+  {
+    "name": "Genoa",
+    "logo": "/logos/genoa.png",
+    "league": "Serie A",
+    "country": "Italy"
+  },
+  {
+    "name": "Getafe",
+    "logo": "/logos/getafe.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+  {
+    "name": "Granada",
+    "logo": "/logos/granada.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+
+  {
+    "name": "Hamburg",
+    "logo": "/logos/hamburg.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+  {
+    "name": "Hannover",
+    "logo": "/logos/hannover.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+  {
+    "name": "Hertha Berlin",
+    "logo": "/logos/hertha-bsc-berlin.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+  {
+    "name": "Hoffenheim",
+    "logo": "/logos/hoffenheim.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+
+  {
+    "name": "Inter",
+    "logo": "/logos/inter.png",
+    "league": "Serie A",
+    "country": "Italy"
+  },
+
+  {
+    "name": "Juventus",
+    "logo": "/logos/juventus.png",
+    "league": "Serie A",
+    "country": "Italy"
+  },
+
+  {
+    "name": "Leeds United",
+    "logo": "/logos/leeds-united.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+  {
+    "name": "Leicester City",
+    "logo": "/logos/leicester-city.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+  {
+    "name": "Lille",
+    "logo": "/logos/losc-lille.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+  {
+    "name": "Liverpool",
+    "logo": "/logos/liverpool.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+  {
+    "name": "Lorient",
+    "logo": "/logos/fc-lorient.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+  {
+    "name": "Lyon",
+    "logo": "/logos/olympique-lyonnais.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+
+  {
+    "name": "Mainz",
+    "logo": "/logos/mainz.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+  {
+    "name": "Manchester City",
+    "logo": "/logos/manchester-city.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+  {
+    "name": "Manchester United",
+    "logo": "/logos/manchester-united.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+  {
+    "name": "Marseille",
+    "logo": "/logos/olympique-de-marseille.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+  {
+    "name": "Metz",
+    "logo": "/logos/fc-metz.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+  {
+    "name": "Montpellier",
+    "logo": "/logos/montpellier-herault.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+
+  {
+    "name": "Napoli",
+    "logo": "/logos/napoli.png",
+    "league": "Serie A",
+    "country": "Italy"
+  },
+  {
+    "name": "Nantes",
+    "logo": "/logos/fc-nantes.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+  {
+    "name": "Nice",
+    "logo": "/logos/ogc-nice.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+  {
+    "name": "Nuremberg",
+    "logo": "/logos/nuremberg.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+
+  {
+    "name": "Osasuna",
+    "logo": "/logos/osasuna.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+
+  {
+    "name": "Paris Saint-Germain",
+    "logo": "/logos/paris-saint-germain.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+
+  {
+    "name": "RB Leipzig",
+    "logo": "/logos/redbull-leipzig.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+  {
+    "name": "Real Betis",
+    "logo": "/logos/real-betis.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+  {
+    "name": "Real Madrid",
+    "logo": "/logos/real-madrid.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+  {
+    "name": "Real Sociedad",
+    "logo": "/logos/real-sociedad.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+  {
+    "name": "Reims",
+    "logo": "/logos/stade-de-reims.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+  {
+    "name": "Rennes",
+    "logo": "/logos/stade-rennais-fc.png",
+    "league": "Ligue 1",
+    "country": "France"
+  },
+
+  {
+    "name": "Roma",
+    "logo": "/logos/roma.png",
+    "league": "Serie A",
+    "country": "Italy"
+  },
+
+  {
+    "name": "Schalke",
+    "logo": "/logos/schalke.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+  {
+    "name": "Sevilla",
+    "logo": "/logos/sevilla.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+  {
+    "name": "Southampton",
+    "logo": "/logos/southampton.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+  {
+    "name": "Stuttgart",
+    "logo": "/logos/stuttgart.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  },
+
+  {
+    "name": "Tottenham Hotspur",
+    "logo": "/logos/tottenham-hotspur.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+  {
+    "name": "Torino",
+    "logo": "/logos/torino.png",
+    "league": "Serie A",
+    "country": "Italy"
+  },
+
+  {
+    "name": "Udinese",
+    "logo": "/logos/udinese.png",
+    "league": "Serie A",
+    "country": "Italy"
+  },
+
+  {
+    "name": "Valencia",
+    "logo": "/logos/valencia.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+  {
+    "name": "Venezia",
+    "logo": "/logos/venezia.png",
+    "league": "Serie A",
+    "country": "Italy"
+  },
+  {
+    "name": "Villarreal",
+    "logo": "/logos/villarreal.png",
+    "league": "La Liga",
+    "country": "Spain"
+  },
+
+  {
+    "name": "Watford",
+    "logo": "/logos/watford.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+  {
+    "name": "West Ham United",
+    "logo": "/logos/west-ham-united.png",
+    "league": "Premier League",
+    "country": "England"
+  },
+  {
+    "name": "Wolfsburg",
+    "logo": "/logos/wolfsburg.png",
+    "league": "Bundesliga",
+    "country": "Germany"
+  }
+]

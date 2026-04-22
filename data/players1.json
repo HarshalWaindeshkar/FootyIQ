@@ -1,0 +1,551 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "nationality": "Argentina",
+    "position": "Forward",
+    "clubs": [
+      "FC Barcelona",
+      "Paris Saint-Germain",
+      "Inter Miami"
+    ],
+    "age": 37,
+    "goals": 841,
+    "market_value": 25,
+    "image": "/players/Lionel_Messi.png",
+    "hints": [
+      "Holds the record for most Ballon d'Or wins in history with 8",
+      "Spent 17 seasons at a Spanish club before his emotional departure in 2021",
+      "Won his nation's first World Cup in 36 years in Qatar",
+      "His contract at his boyhood club was famously written on a napkin",
+      "Born in Rosario, he was treated for a growth hormone deficiency as a child"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "nationality": "Portugal",
+    "position": "Forward",
+    "clubs": [
+      "Sporting CP",
+      "Manchester United",
+      "Real Madrid",
+      "Juventus",
+      "Al Nassr"
+    ],
+    "age": 40,
+    "goals": 920,
+    "market_value": 15,
+    "image": "/players/Cristiano_Ronaldo.png",
+    "hints": [
+      "Has won the Champions League with three different clubs",
+      "Set the all-time international goals record, surpassing Ali Daei",
+      "His mother reportedly wanted to abort him but was advised against it",
+      "He was born on the island of Madeira and supports a club from his hometown",
+      "Holds the record for most goals ever scored in professional football"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Kylian Mbappé",
+    "nationality": "France",
+    "position": "Forward",
+    "clubs": [
+      "AS Monaco",
+      "Paris Saint-Germain",
+      "Real Madrid"
+    ],
+    "age": 26,
+    "goals": 330,
+    "market_value": 180,
+    "image": "/players/Kylian_Mbappé.png",
+    "hints": [
+      "Became only the second teenager to score in a World Cup final after Pele",
+      "Rejected a move to Real Madrid for two years before eventually joining",
+      "Scored a hat-trick in a World Cup final but still finished on the losing side",
+      "Grew up in a suburb of Paris and idolized Cristiano Ronaldo as a child",
+      "Donated his entire 2018 World Cup winners' bonus to charity"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Erling Haaland",
+    "nationality": "Norway",
+    "position": "Forward",
+    "clubs": [
+      "Molde",
+      "Red Bull Salzburg",
+      "Borussia Dortmund",
+      "Manchester City"
+    ],
+    "age": 24,
+    "goals": 280,
+    "market_value": 200,
+    "image": "/players/Erling_Haaland.png",
+    "hints": [
+      "His father played for the club he would later break records at in England",
+      "Scored 9 goals in a single Champions League group stage match",
+      "Set a new Premier League single-season goals record in his debut campaign",
+      "Born in Leeds but chose to represent a Scandinavian nation",
+      "Follows strict diet and sleep routines, famously wearing blue-light glasses"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Neymar Jr.",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "clubs": [
+      "Santos",
+      "FC Barcelona",
+      "Paris Saint-Germain",
+      "Al Hilal"
+    ],
+    "age": 33,
+    "goals": 445,
+    "market_value": 20,
+    "image": "/players/Neymar_Jr..png",
+    "hints": [
+      "Became the world's most expensive player in 2017, breaking a record by over €100m",
+      "Was part of the MSN attacking trio that dominated European football in 2015",
+      "Suffered a devastating metatarsal injury in back-to-back World Cups",
+      "His former club Santos retired his number 11 shirt in his honour",
+      "Brazil's all-time leading scorer, surpassing a record held for decades"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Kevin De Bruyne",
+    "nationality": "Belgium",
+    "position": "Midfielder",
+    "clubs": [
+      "Genk",
+      "Chelsea",
+      "Werder Bremen",
+      "VfL Wolfsburg",
+      "Manchester City"
+    ],
+    "age": 33,
+    "goals": 125,
+    "market_value": 40,
+    "image": "/players/Kevin_De_Bruyne.png",
+    "hints": [
+      "Was deemed surplus to requirements at Chelsea before becoming one of Europe's best",
+      "Holds the Premier League record for most assists in a single season (20)",
+      "Won the treble in 2022/23 despite missing most of the run-in through injury",
+      "Considered by many managers to be the most complete midfielder of his era",
+      "Captains the Belgian national side and was part of their 'Golden Generation'"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Vinicius Jr.",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "clubs": [
+      "Flamengo",
+      "Real Madrid"
+    ],
+    "age": 24,
+    "goals": 110,
+    "market_value": 200,
+    "image": "/players/Vinicius_Jr..png",
+    "hints": [
+      "Joined his current club at age 16 in a deal worth €45m — before his debut",
+      "Scored the winning goal in a Champions League final in Paris",
+      "Has become a prominent spokesperson against racism in European football",
+      "His signature skill involves intricate footwork borrowed from Brazilian street culture",
+      "Finished runner-up in the 2024 Ballon d'Or in a highly controversial ceremony"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Mohamed Salah",
+    "nationality": "Egypt",
+    "position": "Forward",
+    "clubs": [
+      "El Mokawloon",
+      "Basel",
+      "Chelsea",
+      "Fiorentina",
+      "Roma",
+      "Liverpool"
+    ],
+    "age": 33,
+    "goals": 375,
+    "market_value": 55,
+    "image": "/players/Mohamed_Salah.png",
+    "hints": [
+      "Was considered a flop at a London club before reinventing himself in Italy",
+      "Set a record of 32 goals in a 38-game Premier League season in 2017/18",
+      "Won a Champions League title after a famous collision in the final the year before",
+      "Africa Cup of Nations winner with his national side",
+      "His country's all-time leading scorer and most capped international"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Robert Lewandowski",
+    "nationality": "Poland",
+    "position": "Forward",
+    "clubs": [
+      "Znicz Pruszkow",
+      "Lech Poznan",
+      "Borussia Dortmund",
+      "Bayern Munich",
+      "FC Barcelona"
+    ],
+    "age": 36,
+    "goals": 660,
+    "market_value": 15,
+    "image": "/players/Robert_Lewandowski.png",
+    "hints": [
+      "Scored 5 goals in 9 minutes as a substitute in a Bundesliga match",
+      "Won 8 consecutive top-flight titles at a single German club",
+      "Broke a record in 2021 that had stood for 49 years in the Bundesliga",
+      "Finished Ballon d'Or runner-up in 2021, with many arguing he was robbed of the win",
+      "Was rejected by a Premier League club as a teenager before rising to prominence"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Luka Modrić",
+    "nationality": "Croatia",
+    "position": "Midfielder",
+    "clubs": [
+      "Dinamo Zagreb",
+      "Tottenham Hotspur",
+      "Real Madrid"
+    ],
+    "age": 39,
+    "goals": 95,
+    "market_value": 8,
+    "image": "/players/Luka_Modrić.png",
+    "hints": [
+      "Ended an 11-year duopoly to win the Ballon d'Or in 2018",
+      "Was voted the best player at a World Cup where his nation finished runners-up",
+      "Survived a kidnapping attempt on his family as a child during the Balkan wars",
+      "Was initially deemed too small and frail to make it as a professional footballer",
+      "Has won 6 Champions League titles, all with the same Spanish club"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Harry Kane",
+    "nationality": "England",
+    "position": "Forward",
+    "clubs": [
+      "Tottenham Hotspur",
+      "Bayern Munich"
+    ],
+    "age": 31,
+    "goals": 330,
+    "market_value": 90,
+    "image": "/players/Harry_Kane.png",
+    "hints": [
+      "England's all-time record goalscorer, surpassing Wayne Rooney's tally",
+      "Won the Premier League Golden Boot without ever lifting a major team trophy",
+      "Had loan spells at several lower-division English clubs before breaking through",
+      "Known for elite penalty-taking and assist-making in addition to goalscoring",
+      "Left a north London club for Germany in a deal worth over £100m"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Virgil van Dijk",
+    "nationality": "Netherlands",
+    "position": "Defender",
+    "clubs": [
+      "Groningen",
+      "Celtic",
+      "Southampton",
+      "Liverpool"
+    ],
+    "age": 33,
+    "goals": 55,
+    "market_value": 35,
+    "image": "/players/Virgil_van_Dijk.png",
+    "hints": [
+      "Became the most expensive defender in history when signed for £75m in January 2018",
+      "Finished third in the Ballon d'Or — the highest-ever finish for a defender at the time",
+      "Won the Champions League and Premier League within two seasons of arriving",
+      "His club went unbeaten at home in the Premier League across two full seasons with him",
+      "Captains the Netherlands and played a key role in their run to the 2019 Nations League final"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Pedri",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "clubs": [
+      "Las Palmas",
+      "FC Barcelona"
+    ],
+    "age": 22,
+    "goals": 35,
+    "market_value": 100,
+    "image": "/players/Pedri.png",
+    "hints": [
+      "Won the Kopa Trophy for best under-21 player in 2021",
+      "Played 73 games in a single calendar year as a 19-year-old, causing widespread concern",
+      "Regularly compared to a legendary Barça midfielder known for his vision and composure",
+      "Born in the Canary Islands and came through a local academy before moving to Catalonia",
+      "Was named best young player at Euro 2020 after only a handful of first-team appearances"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Jude Bellingham",
+    "nationality": "England",
+    "position": "Midfielder",
+    "clubs": [
+      "Birmingham City",
+      "Borussia Dortmund",
+      "Real Madrid"
+    ],
+    "age": 21,
+    "goals": 95,
+    "market_value": 180,
+    "image": "/players/Jude_Bellingham.png",
+    "hints": [
+      "Became the youngest scorer in Bundesliga history during his first season",
+      "Scored 23 league goals in his debut season at his current club — extraordinary for a midfielder",
+      "Was Birmingham City's starting midfielder at just 16 years old",
+      "His father was also a professional footballer who played in the English lower leagues",
+      "Won the Champions League in his debut season at a Spanish giant"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Thibaut Courtois",
+    "nationality": "Belgium",
+    "position": "Goalkeeper",
+    "clubs": [
+      "Genk",
+      "Chelsea",
+      "Atletico Madrid",
+      "Real Madrid"
+    ],
+    "age": 33,
+    "goals": 0,
+    "market_value": 45,
+    "image": "/players/Thibaut_Courtois.png",
+    "hints": [
+      "Was named Man of the Match in a Champions League final with 9 saves — one of the great individual performances",
+      "Won the Yashin Trophy for best goalkeeper in 2022, the year of that final",
+      "Stands at 1.99m — one of the tallest goalkeepers to ever play at the top level",
+      "Won La Liga with Atletico Madrid, the Premier League with Chelsea, and the Champions League",
+      "Has been Belgian number one since 2011, winning over 100 caps"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Lamine Yamal",
+    "nationality": "Spain",
+    "position": "Forward",
+    "clubs": [
+      "FC Barcelona"
+    ],
+    "age": 17,
+    "goals": 35,
+    "market_value": 180,
+    "image": "/players/Lamine_Yamal.png",
+    "hints": [
+      "Became the youngest player ever to appear for Spain's senior national team",
+      "Scored a stunning semi-final goal that was directly followed by Spain winning the tournament",
+      "Won the Kopa Trophy in consecutive years before the age of 18",
+      "A photograph of him as a baby with a future World Cup winner went viral in 2024",
+      "Born on 13 July 2007 — the exact day of the tournament final he would later help win"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Bukayo Saka",
+    "nationality": "England",
+    "position": "Forward",
+    "clubs": [
+      "Arsenal"
+    ],
+    "age": 23,
+    "goals": 115,
+    "market_value": 140,
+    "image": "/players/Bukayo_Saka.png",
+    "hints": [
+      "Came through the academy and never left a north London club",
+      "Won PFA Players' Player of the Year in 2023/24 — the first Arsenal player in 18 years",
+      "Can play left back, left wing, and right wing at the highest level",
+      "Scored in a Euro shootout final as a teenager, missing the decisive penalty",
+      "Was called up to the England senior side at 18 after just a handful of league appearances"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Florian Wirtz",
+    "nationality": "Germany",
+    "position": "Midfielder",
+    "clubs": [
+      "Bayer Leverkusen",
+      "Real Madrid"
+    ],
+    "age": 22,
+    "goals": 75,
+    "market_value": 150,
+    "image": "/players/Florian_Wirtz.png",
+    "hints": [
+      "Was the key creative force in a Bundesliga side that went the entire season unbeaten in 2023/24",
+      "Scored the Bundesliga's fastest-ever goal as a substitute when still a teenager",
+      "Suffered an ACL tear that ruled him out for 11 months but returned to form immediately",
+      "Was coached by a former Champions League-winning captain at club level",
+      "Joined a Spanish superclub in 2025 in a deal reported to exceed €130m"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Jamal Musiala",
+    "nationality": "Germany",
+    "position": "Midfielder",
+    "clubs": [
+      "Chelsea (Academy)",
+      "Bayern Munich"
+    ],
+    "age": 22,
+    "goals": 80,
+    "market_value": 140,
+    "image": "/players/Jamal_Musiala.png",
+    "hints": [
+      "Was born in Stuttgart but raised in England and trained at a south London academy",
+      "Chose to represent Germany over England at senior international level",
+      "Became Bayern Munich's youngest-ever Bundesliga scorer",
+      "Nicknamed 'Bambi' by teammates for his fluid, agile dribbling",
+      "Was one of the standout performers at the 2024 home tournament before a quarter-final exit"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Rodri",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "clubs": [
+      "Villarreal",
+      "Atletico Madrid",
+      "Manchester City"
+    ],
+    "age": 29,
+    "goals": 35,
+    "market_value": 90,
+    "image": "/players/Rodri.png",
+    "hints": [
+      "Scored the winning goal in a Champions League final against city rivals",
+      "Won the Ballon d'Or in 2024 — only the second Spanish man to do so",
+      "Went nearly 80 games unbeaten before a late 2024/25 run ended his club's run",
+      "Suffered a serious ACL injury in September 2024 that ended his season",
+      "Widely regarded as the finest defensive midfielder in world football"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Cole Palmer",
+    "nationality": "England",
+    "position": "Midfielder",
+    "clubs": [
+      "Manchester City",
+      "Chelsea"
+    ],
+    "age": 23,
+    "goals": 65,
+    "market_value": 130,
+    "image": "/players/Cole_Palmer.png",
+    "hints": [
+      "Was sold by the reigning champions for £40m — widely considered the bargain of the decade",
+      "Won PFA Young Player of the Year in 2023/24 after a 22-goal debut season",
+      "Scored a penalty in a major tournament final in his first senior international summer",
+      "Scored four goals in a single Premier League game against an Everton side in 2024",
+      "Lifelong fan of the club that sold him — making his departure feel unexpected"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Phil Foden",
+    "nationality": "England",
+    "position": "Midfielder",
+    "clubs": [
+      "Manchester City"
+    ],
+    "age": 25,
+    "goals": 110,
+    "market_value": 80,
+    "image": "/players/Phil_Foden.png",
+    "hints": [
+      "Won the PFA Players' Player of the Year in 2023/24 season",
+      "A lifelong supporter of his club who never played for another professional team",
+      "Won 6 Premier League titles and a Champions League, all at the same club",
+      "Was named man of the tournament at the 2017 U17 World Cup aged 17",
+      "Nicknamed 'The Stockport Iniesta' due to his hometown and playing style"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Declan Rice",
+    "nationality": "England",
+    "position": "Midfielder",
+    "clubs": [
+      "West Ham United",
+      "Arsenal"
+    ],
+    "age": 26,
+    "goals": 40,
+    "market_value": 100,
+    "image": "/players/Declan_Rice.png",
+    "hints": [
+      "Was released as a teenager by Chelsea — who later failed to buy him back for £100m+",
+      "Captained a London club to their first European trophy in over 50 years",
+      "Joined Arsenal for a then-record British fee of £105m in 2023",
+      "Was eligible for the Republic of Ireland before declaring for England",
+      "Has evolved from a pure defensive midfielder into a box-to-box goal-scoring force"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Federico Valverde",
+    "nationality": "Uruguay",
+    "position": "Midfielder",
+    "clubs": [
+      "Peñarol",
+      "Real Madrid",
+      "Deportivo la Coruña"
+    ],
+    "age": 26,
+    "goals": 40,
+    "market_value": 120,
+    "image": "/players/Federico_Valverde.png",
+    "hints": [
+      "Made a famous last-ditch foul to stop a certain goal, accepting a red card to save the tie",
+      "Won back-to-back Champions League titles in 2022 and 2024",
+      "Nicknamed 'El Pajarito' by teammates and fans",
+      "Can play as a central midfielder, defensive midfielder, or right winger at the top level",
+      "One of the most physically dominant midfielders in the world by distance covered"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Trent Alexander-Arnold",
+    "nationality": "England",
+    "position": "Defender",
+    "clubs": [
+      "Liverpool",
+      "Real Madrid"
+    ],
+    "age": 26,
+    "goals": 25,
+    "market_value": 75,
+    "image": "/players/Trent_Alexander-Arnold.png",
+    "hints": [
+      "Redefined the right-back position as a primary playmaker in the Premier League",
+      "Has more assists than any other defender in Premier League history",
+      "A lifelong supporter of the club he captained, making over 300 appearances",
+      "Delivered a corner kick in the 2019 Champions League semi-final that changed football history",
+      "Left on a free transfer to a Spanish giant in 2025 after contract negotiations broke down"
+    ]
+  }
+]

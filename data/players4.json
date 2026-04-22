@@ -1,0 +1,601 @@
+[
+  {
+    "id": 76,
+    "name": "Andrea Pirlo",
+    "nationality": "Italy",
+    "position": "Midfielder",
+    "clubs": [
+      "Brescia",
+      "Inter Milan",
+      "Reggina",
+      "Brescia",
+      "AC Milan",
+      "Juventus",
+      "New York City FC"
+    ],
+    "age": 46,
+    "goals": 72,
+    "market_value": 0,
+    "image": "/players/Andrea_Pirlo.png",
+    "hints": [
+      "Won the 2006 World Cup with Italy, playing a key role in midfield throughout the tournament",
+      "Won 4 Serie A titles with Juventus after leaving AC Milan on a free transfer in 2011",
+      "Was considered surplus to requirements at a Milan club before redefining his career as a deep-lying playmaker",
+      "His deep free kick delivery and 'Panenka'-style penalties were signature elements of his game",
+      "Became the 'regista' — a position he essentially redefined at the highest level of football"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Rivaldo",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "clubs": [
+      "Palmeiras",
+      "Deportivo La Coruña",
+      "FC Barcelona",
+      "AC Milan",
+      "Olympiacos"
+    ],
+    "age": 52,
+    "goals": 352,
+    "market_value": 0,
+    "image": "/players/Rivaldo.png",
+    "hints": [
+      "Was the world's best player in 1999, winning both the Ballon d'Or and FIFA World Player of the Year",
+      "Scored one of football's most audacious goals — a bicycle kick on the final day of the season to secure Champions League qualification",
+      "Won the 2002 World Cup as a key squad member, contributing vital goals in the knockout stages",
+      "His time at Barcelona was defined by a complex relationship with the manager who wanted him to play wide",
+      "Was fined by FIFA for feigning injury after being touched by a ball in a Champions League qualifier"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Ronaldo de Assis",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "clubs": [
+      "Gremio",
+      "Paris Saint-Germain",
+      "FC Barcelona",
+      "AC Milan",
+      "Flamengo",
+      "Atletico Mineiro",
+      "Querétaro",
+      "Fluminense"
+    ],
+    "age": 45,
+    "goals": 300,
+    "market_value": 0,
+    "image": "/players/Ronaldo_de_Assis.png",
+    "hints": [
+      "Won two consecutive Ballon d'Or awards in 2004 and 2005",
+      "Received a standing ovation from Real Madrid fans at the Bernabeu during a league match",
+      "Won the 2002 World Cup with Brazil and the 2004/05 Champions League with a Spanish club",
+      "Was once banned from Brazil for tax offences, leading to a controversial passport issue",
+      "His no-look passes and skill moves were unlike anything European football had seen"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Riquelme",
+    "nationality": "Argentina",
+    "position": "Midfielder",
+    "clubs": [
+      "Boca Juniors",
+      "FC Barcelona",
+      "Villarreal",
+      "Boca Juniors",
+      "Argentinos Juniors"
+    ],
+    "age": 46,
+    "goals": 135,
+    "market_value": 0,
+    "image": "/players/Riquelme.png",
+    "hints": [
+      "Considered one of the last great 'enganche' — the traditional Argentine number 10",
+      "Led Villarreal to the Champions League semi-final in 2006, scoring the winning penalty in every shootout",
+      "Won the Copa Libertadores and Intercontinental Cup with Boca Juniors",
+      "Was so dominant at Villarreal that Pep Guardiola reportedly built entire game plans around stopping him",
+      "Refused a contract extension at Barcelona under Rijkaard in favour of more game time"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Steven Gerrard",
+    "nationality": "England",
+    "position": "Midfielder",
+    "clubs": [
+      "Liverpool",
+      "LA Galaxy"
+    ],
+    "age": 45,
+    "goals": 186,
+    "market_value": 0,
+    "image": "/players/Steven_Gerrard.png",
+    "hints": [
+      "Produced one of the greatest individual performances in a Champions League final in Istanbul in 2005",
+      "Never won the Premier League despite being one of the competition's most dominant midfielders",
+      "Notoriously slipped against Chelsea in April 2014, handing the title to Manchester City",
+      "Scored an extraordinary long-range FA Cup final goal to take the game to extra time in 2006",
+      "A one-club man at Liverpool who declined moves to Chelsea and other clubs to stay loyal"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Frank Lampard",
+    "nationality": "England",
+    "position": "Midfielder",
+    "clubs": [
+      "West Ham United",
+      "Swansea City",
+      "Chelsea",
+      "Manchester City",
+      "New York City FC"
+    ],
+    "age": 47,
+    "goals": 321,
+    "market_value": 0,
+    "image": "/players/Frank_Lampard.png",
+    "hints": [
+      "Chelsea's all-time record scorer with 211 goals — remarkable for a central midfielder",
+      "Won the Champions League with Chelsea in 2012, scoring in the semi-final",
+      "Was voted FWA Footballer of the Year in 2005 after finishing Ballon d'Or runner-up",
+      "Was known for arriving late into the box and timing his runs to perfection",
+      "His father Frank Lampard Sr. was also a professional footballer and manager"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Xabi Alonso",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "clubs": [
+      "Real Sociedad",
+      "Liverpool",
+      "Real Madrid",
+      "Bayern Munich"
+    ],
+    "age": 43,
+    "goals": 70,
+    "market_value": 0,
+    "image": "/players/Xabi_Alonso.png",
+    "hints": [
+      "Scored from his own half in a Champions League match — a goal that became iconic",
+      "Won the Champions League with two different clubs — Liverpool in 2005 and Real Madrid in 2014",
+      "Part of the Spain squad that won the World Cup in 2010 and two European Championships",
+      "Won the Bundesliga with Bayern Munich in his final three seasons as a player",
+      "Went on to become one of Europe's most coveted managers, leading Bayer Leverkusen to an unbeaten title"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Gareth Bale",
+    "nationality": "Wales",
+    "position": "Forward",
+    "clubs": [
+      "Southampton",
+      "Tottenham Hotspur",
+      "Real Madrid",
+      "Tottenham Hotspur",
+      "LA Galaxy",
+      "Cardiff City"
+    ],
+    "age": 35,
+    "goals": 225,
+    "market_value": 0,
+    "image": "/players/Gareth_Bale.png",
+    "hints": [
+      "Won four Champions League titles with Real Madrid despite a turbulent relationship with the club",
+      "Scored an overhead kick in a Champions League final that is widely regarded as the greatest final goal ever",
+      "Led Wales to the European Championship semi-finals in 2016 — the nation's greatest tournament run",
+      "Was the world's most expensive player when signed by Real Madrid for £85m in 2013",
+      "Started his career as a left back before reinventing himself as a devastating winger"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Sergio Agüero",
+    "nationality": "Argentina",
+    "position": "Forward",
+    "clubs": [
+      "Independiente",
+      "Atletico Madrid",
+      "Manchester City",
+      "FC Barcelona"
+    ],
+    "age": 37,
+    "goals": 431,
+    "market_value": 0,
+    "image": "/players/Sergio_Agüero.png",
+    "hints": [
+      "Scored the most dramatic goal in Premier League history — a stoppage-time title winner that sparked mass hysteria",
+      "Manchester City's all-time record scorer with 260 goals",
+      "Won 5 Premier League titles and a Champions League during his time in England",
+      "Was the son-in-law of Diego Maradona at one point in his career",
+      "Retired from football at 33 after suffering a cardiac episode at FC Barcelona"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Gerd Müller",
+    "nationality": "Germany",
+    "position": "Forward",
+    "clubs": [
+      "TSV Nördlingen",
+      "Bayern Munich",
+      "Fort Lauderdale Strikers"
+    ],
+    "age": 0,
+    "goals": 735,
+    "market_value": 0,
+    "image": "/players/Gerd_Müller.png",
+    "hints": [
+      "Scored 68 international goals for West Germany — a record that stood for 40 years",
+      "Won the World Cup in 1974, scoring the winning goal in the final",
+      "Nicknamed 'Der Bomber' for his prolific and clinical goal-scoring ability",
+      "Won the Ballon d'Or in 1970 and was arguably Europe's best player in the early 1970s",
+      "Scored 40 Bundesliga goals in a single season — a record that stood until broken by Lewandowski in 2021"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Marco van Basten",
+    "nationality": "Netherlands",
+    "position": "Forward",
+    "clubs": [
+      "Ajax",
+      "AC Milan"
+    ],
+    "age": 60,
+    "goals": 276,
+    "market_value": 0,
+    "image": "/players/Marco_van_Basten.png",
+    "hints": [
+      "Scored one of the greatest goals in football history — a volley from an impossible angle in the 1988 European Championship final",
+      "Won the Ballon d'Or three times — in 1988, 1989, and 1992",
+      "Won the European Cup with AC Milan in 1989 and 1990",
+      "His career was ended prematurely at 28 by a chronic ankle injury",
+      "Was part of the Dutch team that won the 1988 European Championship alongside Frank Rijkaard and Ruud Gullit"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Ruud Gullit",
+    "nationality": "Netherlands",
+    "position": "Forward",
+    "clubs": [
+      "Haarlem",
+      "Feyenoord",
+      "PSV Eindhoven",
+      "AC Milan",
+      "Sampdoria",
+      "AC Milan",
+      "Sampdoria",
+      "Chelsea"
+    ],
+    "age": 62,
+    "goals": 220,
+    "market_value": 0,
+    "image": "/players/Ruud_Gullit.png",
+    "hints": [
+      "Won the Ballon d'Or in 1987 at PSV Eindhoven before joining AC Milan",
+      "Captained the Netherlands to the 1988 European Championship — scoring in the final",
+      "Won back-to-back European Cups with AC Milan in 1989 and 1990",
+      "Was one of the most versatile and complete players of his era — capable in multiple positions",
+      "Was a dreadlocked icon whose style on and off the field made him a cultural figure"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Pelé",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "clubs": [
+      "Santos",
+      "New York Cosmos"
+    ],
+    "age": 0,
+    "goals": 1281,
+    "market_value": 0,
+    "image": "/players/Pelé.png",
+    "hints": [
+      "The only player in history to win three FIFA World Cups — in 1958, 1962, and 1970",
+      "Scored over 1,000 career goals — though many are from unofficial competitions",
+      "Won the World Cup at age 17 — the youngest ever winner — in 1958",
+      "Was so revered that opposing soldiers reportedly called a ceasefire to watch him play in Nigeria",
+      "Was declared a national treasure by the Brazilian government to prevent him from moving abroad"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Diego Maradona",
+    "nationality": "Argentina",
+    "position": "Forward",
+    "clubs": [
+      "Argentinos Juniors",
+      "Boca Juniors",
+      "FC Barcelona",
+      "Napoli",
+      "Sevilla",
+      "Newell's Old Boys",
+      "Boca Juniors"
+    ],
+    "age": 0,
+    "goals": 353,
+    "market_value": 0,
+    "image": "/players/Diego_Maradona.png",
+    "hints": [
+      "Scored both the 'Goal of the Century' and the 'Hand of God' goal in the same match at the 1986 World Cup",
+      "Won the World Cup with Argentina in 1986, being named the tournament's best player",
+      "Transformed an unfashionable Italian club into Serie A champions twice — their only top-flight titles",
+      "Was a complex figure whose personal struggles were as legendary as his footballing genius",
+      "His number 10 shirt was retired by the Italian club he led to glory"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Ronaldo Luís Nazário de Lima",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "clubs": [
+      "Cruzeiro",
+      "PSV Eindhoven",
+      "FC Barcelona",
+      "Inter Milan",
+      "Real Madrid",
+      "AC Milan",
+      "Corinthians"
+    ],
+    "age": 48,
+    "goals": 414,
+    "market_value": 0,
+    "image": "/players/Ronaldo_Luís_Nazário_de_Lima.png",
+    "hints": [
+      "Named FIFA World Player of the Year three times — widely considered the greatest number 9 ever",
+      "Scored in two separate World Cup finals for Brazil — winning both",
+      "His career was interrupted by multiple devastating knee surgeries, yet he kept returning to elite level",
+      "Was a youth prodigy who earned a call-up to the national team at 16 without a senior club debut",
+      "His movement, pace, and finishing combination has never been matched at the highest level"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Lothar Matthäus",
+    "nationality": "Germany",
+    "position": "Midfielder",
+    "clubs": [
+      "Borussia Mönchengladbach",
+      "Bayern Munich",
+      "Inter Milan",
+      "Bayern Munich",
+      "New York MetroStars"
+    ],
+    "age": 64,
+    "goals": 205,
+    "market_value": 0,
+    "image": "/players/Lothar_Matthäus.png",
+    "hints": [
+      "Won the FIFA World Player of the Year award in 1991 — the first ever recipient",
+      "Won the World Cup with West Germany in 1990 as captain",
+      "Won the Champions League with Bayern Munich in 2001 at the age of 39",
+      "Holds the record for the most World Cup appearances — 25 matches over 5 tournaments",
+      "Was equally effective as an attacking midfielder in his prime and a sweeper in his later years"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Marcel Desailly",
+    "nationality": "France",
+    "position": "Defender",
+    "clubs": [
+      "Nantes",
+      "Marseille",
+      "AC Milan",
+      "Chelsea",
+      "Al Ittihad",
+      "Qatar SC"
+    ],
+    "age": 56,
+    "goals": 20,
+    "market_value": 0,
+    "image": "/players/Marcel_Desailly.png",
+    "hints": [
+      "Won the Champions League with two different clubs in consecutive seasons — Marseille in 1993 and AC Milan in 1994",
+      "Won the World Cup in 1998 and Euro 2000 with France as part of one of the greatest squads ever assembled",
+      "Was one of the most physically commanding defenders of his era",
+      "Was sent off in the 1998 World Cup final but France still won the match",
+      "Moved to Chelsea in 1998 and spent six years in the Premier League"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Roberto Baggio",
+    "nationality": "Italy",
+    "position": "Forward",
+    "clubs": [
+      "Vicenza",
+      "Fiorentina",
+      "Juventus",
+      "AC Milan",
+      "Bologna",
+      "Inter Milan",
+      "Brescia"
+    ],
+    "age": 58,
+    "goals": 318,
+    "market_value": 0,
+    "image": "/players/Roberto_Baggio.png",
+    "hints": [
+      "Missed the decisive penalty in the 1994 World Cup final shootout — one of the most heartbreaking moments in football",
+      "Won the Ballon d'Or and FIFA World Player of the Year in 1993",
+      "Carried Italy almost single-handedly through the 1994 World Cup knockout stages",
+      "Was transferred from Fiorentina to Juventus, causing protests and riots among Fiorentina fans",
+      "Known as 'Il Divin Codino' — The Divine Ponytail — for his iconic hairstyle"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Ronaldo de Lima II",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "clubs": [
+      "Cruzeiro",
+      "PSV Eindhoven",
+      "FC Barcelona",
+      "Inter Milan",
+      "Real Madrid",
+      "AC Milan",
+      "Corinthians"
+    ],
+    "age": 48,
+    "goals": 414,
+    "market_value": 0,
+    "image": "/players/Ronaldo_de_Lima_II.png",
+    "hints": [
+      "The only striker to win the World Cup with Brazil whilst at an Italian club",
+      "His dribbling and pace in the late 1990s before injuries struck was considered superhuman",
+      "Inter Milan reportedly never replaced him — he remains their last truly elite striker",
+      "He scored two penalties in two separate World Cup finals for Brazil",
+      "Was regarded as the best player in the world from 1996–1998 before knee injuries changed his game"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Miroslav Klose",
+    "nationality": "Germany",
+    "position": "Forward",
+    "clubs": [
+      "Homburg",
+      "Kaiserslautern",
+      "Werder Bremen",
+      "Bayern Munich",
+      "Lazio"
+    ],
+    "age": 47,
+    "goals": 276,
+    "market_value": 0,
+    "image": "/players/Miroslav_Klose.png",
+    "hints": [
+      "The all-time leading scorer in World Cup history with 16 goals across four tournaments",
+      "Won the World Cup with Germany in 2014, scoring against Brazil in the famous 7-1 semi-final",
+      "Scored 5 goals at the 2002 World Cup to win the Golden Boot in his debut tournament",
+      "Known for his trademark somersault goal celebration",
+      "Was born in Poland but represented Germany throughout his senior career"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Ronaldinho Gaucho",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "clubs": [
+      "Gremio",
+      "Paris Saint-Germain",
+      "FC Barcelona",
+      "AC Milan",
+      "Flamengo",
+      "Atletico Mineiro"
+    ],
+    "age": 45,
+    "goals": 300,
+    "market_value": 0,
+    "image": "/players/Ronaldinho_Gaucho.png",
+    "hints": [
+      "Won the Ballon d'Or in 2004 and 2005 during his Barcelona peak",
+      "Scored a deliberately lobbed free kick from 35 yards against England in the 2002 World Cup that went in off the crossbar",
+      "Was so good that Real Madrid fans applauded him mid-match at the Bernabeu",
+      "Won the 2002 World Cup and the 2004/05 Champions League, but never won La Liga",
+      "His trademark move involved a feint and flick that left defenders stationary"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Paolo Maldini",
+    "nationality": "Italy",
+    "position": "Defender",
+    "clubs": [
+      "AC Milan"
+    ],
+    "age": 56,
+    "goals": 35,
+    "market_value": 0,
+    "image": "/players/Paolo_Maldini.png",
+    "hints": [
+      "One of the very few players to spend an entire 25-year senior career at a single club",
+      "Won the Champions League 5 times and Serie A 7 times — all at the same Italian club",
+      "Was never sent off in over 900 career appearances — a near-impossible feat for a top-level defender",
+      "His father played for and managed the same club, making them football's most famous dynasty",
+      "Was considered the best left back — and later the best centre back — in the world across three separate decades"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Ryan Giggs",
+    "nationality": "Wales",
+    "position": "Forward",
+    "clubs": [
+      "Manchester United"
+    ],
+    "age": 51,
+    "goals": 168,
+    "market_value": 0,
+    "image": "/players/Ryan_Giggs.png",
+    "hints": [
+      "Scored the greatest individual goal in FA Cup history — a mazy run and finish against Arsenal in 1999",
+      "Won 13 Premier League titles — more than any other player in the history of the competition",
+      "Spent his entire 24-year professional career at a single Manchester club",
+      "Was a direct, pacy winger who transformed into a creative, deeper midfielder in his 30s",
+      "Won the Champions League twice and played in more Premier League games than anyone else"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Alessandro Del Piero",
+    "nationality": "Italy",
+    "position": "Forward",
+    "clubs": [
+      "Padova",
+      "Juventus",
+      "Sydney FC",
+      "Delhi Dynamos",
+      "Melbourne City"
+    ],
+    "age": 50,
+    "goals": 346,
+    "market_value": 0,
+    "image": "/players/Alessandro_Del_Piero.png",
+    "hints": [
+      "Juventus's all-time record scorer and a one-club legend who stayed through relegation",
+      "Won the World Cup with Italy in 2006, scoring a crucial late goal against Germany in the semi-final",
+      "Has a signature free-kick zone at the edge of the box named 'Del Piero Zone' in Italian football culture",
+      "Took a significant pay cut to remain at Juventus after their relegation due to the Calciopoli scandal",
+      "Won 6 Serie A titles and reached two Champions League finals with Juventus"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Thierry Henry",
+    "nationality": "France",
+    "position": "Forward",
+    "clubs": [
+      "Monaco",
+      "Juventus",
+      "Arsenal",
+      "Barcelona",
+      "New York Red Bulls",
+      "Arsenal"
+    ],
+    "age": 47,
+    "goals": 411,
+    "market_value": 0,
+    "image": "/players/Thierry_Henry.png",
+    "hints": [
+      "Became the all-time leading scorer for a north London club with 228 goals across two spells",
+      "Was part of the 49-game unbeaten side in 2003/04 — the only unbeaten top-flight season in modern English football",
+      "Arsene Wenger reinvented him from a winger who struggled at Juventus into one of the greatest strikers in history",
+      "Won the World Cup in 1998 and Euro 2000 as a squad player before becoming France's main striker",
+      "Scored a controversial handball goal against Ireland in a World Cup play-off that ignited a national scandal"
+    ]
+  }
+]
